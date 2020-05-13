@@ -27,7 +27,7 @@ const routes = {
     users          : USERS,
     userDetail     : USER_DETAIL,
     editProfile    : EDIT_PROFILE,
-    changePassward : CHANGE_PASSWORD,
+    changePassword : CHANGE_PASSWORD,
     words          : WORDS,
     upload         : UPLOAD,
     editWord       : EDIT_WORD,
